@@ -1,15 +1,15 @@
 {
   "files": {
-    "main.css": "/nologyRob/six-nations/static/css/main.eeb4ae37.css",
-    "main.js": "/nologyRob/six-nations/static/js/main.02226298.js",
-    "static/js/787.c6d4ecb9.chunk.js": "/nologyRob/six-nations/static/js/787.c6d4ecb9.chunk.js",
-    "index.html": "/nologyRob/six-nations/index.html",
-    "main.eeb4ae37.css.map": "/nologyRob/six-nations/static/css/main.eeb4ae37.css.map",
-    "main.02226298.js.map": "/nologyRob/six-nations/static/js/main.02226298.js.map",
-    "787.c6d4ecb9.chunk.js.map": "/nologyRob/six-nations/static/js/787.c6d4ecb9.chunk.js.map"
+    "main.css": "/six-nations/static/css/main.eeb4ae37.css",
+    "main.js": "/six-nations/static/js/main.8645dff4.js",
+    "static/js/787.c6d4ecb9.chunk.js": "/six-nations/static/js/787.c6d4ecb9.chunk.js",
+    "index.html": "/six-nations/index.html",
+    "main.eeb4ae37.css.map": "/six-nations/static/css/main.eeb4ae37.css.map",
+    "main.8645dff4.js.map": "/six-nations/static/js/main.8645dff4.js.map",
+    "787.c6d4ecb9.chunk.js.map": "/six-nations/static/js/787.c6d4ecb9.chunk.js.map"
   },
   "entrypoints": [
     "static/css/main.eeb4ae37.css",
-    "static/js/main.02226298.js"
+    "static/js/main.8645dff4.js"
   ]
 }
